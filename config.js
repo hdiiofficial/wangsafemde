@@ -14,11 +14,11 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'fecaabddaba1',
 }
 
 // Other
-global.owner = ['6285701399751','6281382420312']
+global.owner = ['6285701399751']
 global.premium = ['6285701399751']
 global.packname = 'hdiiofficial Bot'
 global.author = 'WhatsApp Bot'
